@@ -23,4 +23,4 @@ Este es mi primer sitio web, Se trata de mi briografia y algunos otros aspectos 
 
 ### Observaciones
 - Se trata de un sitio web a "blanco y negro"(solo HTML), que hace uso de todas las etiquetas vistas hasta ahora: texto, imagenes, videos, links, tablas, formularios, etc.
-- Cada pagina manejará 
+- Cada pagina manejará minimamneta de la pantilla de la pagina index.html
